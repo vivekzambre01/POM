@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="104" started-at="2022-02-26T13:25:22 IST" finished-at="2022-02-26T13:25:22 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="104" started-at="2022-02-26T13:25:22 IST" finished-at="2022-02-26T13:25:22 IST">
+      <class name="JavaStream.Sample">
+        <test-method status="PASS" signature="satup()[pri:0, instance:JavaStream.Sample@7276c8cd]" name="satup" duration-ms="14" started-at="2022-02-26T13:25:22 IST" finished-at="2022-02-26T13:25:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- satup -->
+      </class> <!-- JavaStream.Sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
