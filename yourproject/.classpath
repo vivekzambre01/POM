@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_261/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_261/lib/deploy.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_261/lib/javaws.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_261/lib/jce.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_261/lib/jfr.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_261/lib/jfxswt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_261/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_261/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_261/lib/plugin.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_261/lib/resources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_261/lib/rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/client-combined-3.141.59.jar" sourcepath="C:/Program Files/Java/jdk1.8.0_261/src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="https://www.selenium.dev/selenium/docs/api/java/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
