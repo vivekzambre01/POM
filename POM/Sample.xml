@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test  name="Test">
+    <classes>
+    
+      <class name="TestNG.demo1">
+       <methods>
+      <exclude  name="tc5"/>
+      <exclude name="tc6"/>
+       </methods>
+      </class>
+      
+      <class name="TestNG.demo2">
+      <methods>
+       <include name="tc10"></include>
+      </methods>
+     </class>
+     
+      <class name="TestNG.demo">
+      <methods>
+       <include name="tc3"></include>
+       <exclude name="tc1"></exclude>
+       </methods>
+       </class>
+       
+      </classes>
+  </test> 
+</suite> 

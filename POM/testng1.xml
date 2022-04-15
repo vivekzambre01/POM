@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="projectname">
+  <test  name="module1">
+    <classes>
+      
+      <class name="TestNG1.s_1"/>
+      <class name="TestNG1.s_2"/>
+      <class name="TestNG1.s_3"/>
+      <class name="TestNG1.s_4"/>
+      
+    </classes>
+  </test> 
+</suite> 

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[login page]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68" started-at="2022-04-07T15:32:44 IST" finished-at="2022-04-07T15:32:44 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68" started-at="2022-04-07T15:32:44 IST" finished-at="2022-04-07T15:32:44 IST">
+      <class name="packageobjectmodelkite.Signuppageforkite">
+        <test-method status="PASS" signature="loginpage()[pri:1, instance:packageobjectmodelkite.Signuppageforkite@396f6598]" name="loginpage" duration-ms="12" started-at="2022-04-07T15:32:44 IST" description="login  page varifiction" finished-at="2022-04-07T15:32:44 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[login page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method status="PASS" signature="logoutpage()[pri:2, instance:packageobjectmodelkite.Signuppageforkite@396f6598]" name="logoutpage" duration-ms="2" started-at="2022-04-07T15:32:44 IST" description="logout page varification" finished-at="2022-04-07T15:32:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutpage -->
+      </class> <!-- packageobjectmodelkite.Signuppageforkite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
