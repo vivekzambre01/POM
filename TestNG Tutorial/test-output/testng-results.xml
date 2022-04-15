@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="84" started-at="2022-03-05T14:45:46 IST" finished-at="2022-03-05T14:45:46 IST">
+    <groups>
+      <group name="Smoke">
+        <method signature="Day2.Thirdtest()[pri:0, instance:Test.Day2@17579e0f]" name="Thirdtest" class="Test.Day2"/>
+        <method signature="Day2.fourthtest()[pri:0, instance:Test.Day2@17579e0f]" name="fourthtest" class="Test.Day2"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test name="Default test" duration-ms="84" started-at="2022-03-05T14:45:46 IST" finished-at="2022-03-05T14:45:46 IST">
+      <class name="Test.Day2">
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:Test.Day2@17579e0f]" name="BeforeClass" is-config="true" duration-ms="13" started-at="2022-03-05T14:45:46 IST" finished-at="2022-03-05T14:45:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method status="PASS" signature="Thirdtest()[pri:0, instance:Test.Day2@17579e0f]" name="Thirdtest" duration-ms="9" started-at="2022-03-05T14:45:46 IST" finished-at="2022-03-05T14:45:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Thirdtest -->
+        <test-method status="PASS" signature="fourthtest()[pri:0, instance:Test.Day2@17579e0f]" name="fourthtest" duration-ms="2" started-at="2022-03-05T14:45:46 IST" finished-at="2022-03-05T14:45:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourthtest -->
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:Test.Day2@17579e0f]" name="AfterClass" is-config="true" duration-ms="0" started-at="2022-03-05T14:45:46 IST" finished-at="2022-03-05T14:45:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- Test.Day2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
